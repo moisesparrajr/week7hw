@@ -1,1 +1,1 @@
-# How to connect to the db and diplay it  week7hw
+# week7hw = How to connect to the db and display it  
